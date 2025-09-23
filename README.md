@@ -1,6 +1,6 @@
 ![](banner.jpg)
-<h1 align="center">Título</h1>
-<h3 align="center">Subtítulo</h3>
+<h1 align="center">Explorando o mundo da programação</h1>
+<h3 align="center">Futuro Desenvolvedor em Formação</h3>
 <hr>
 
 Estude do senac Técnico em Informática
